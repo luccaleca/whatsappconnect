@@ -1,0 +1,15 @@
+2023/08/25-14:47:53.988 2350 Reusing MANIFEST C:\Users\lucca.leca\Desktop\whatsappconnect\tokens\whatsbot\Default\Local Storage\leveldb/MANIFEST-000001
+2023/08/25-14:47:53.990 2350 Recovering log #17
+2023/08/25-14:47:53.994 2350 Reusing old log C:\Users\lucca.leca\Desktop\whatsappconnect\tokens\whatsbot\Default\Local Storage\leveldb/000017.log 
+2023/08/25-14:58:55.682 2350 Level-0 table #20: started
+2023/08/25-14:58:55.689 2350 Level-0 table #20: 10376 bytes OK
+2023/08/25-14:58:55.694 2350 Delete type=0 #17
+2023/08/25-14:58:55.694 2350 Compacting 4@0 + 1@1 files
+2023/08/25-14:58:55.700 2350 Generated table #21@0: 11 keys, 745 bytes
+2023/08/25-14:58:55.701 2350 Compacted 4@0 + 1@1 files => 745 bytes
+2023/08/25-14:58:55.705 2350 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/25-14:58:55.707 2350 Delete type=2 #8
+2023/08/25-14:58:55.707 2350 Delete type=2 #11
+2023/08/25-14:58:55.707 2350 Delete type=2 #14
+2023/08/25-14:58:55.707 2350 Delete type=2 #16
+2023/08/25-14:58:55.707 2350 Delete type=2 #20
